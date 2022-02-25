@@ -1,7 +1,9 @@
 # angular-starter-kit
 Starter kit for developing web apps with Code.Hub and Angular
 
-![Logo](src/assets/logo.png)
+<p align="center">
+  <img src="src/assets/logo.png" alt="Angular Starter Kit" />
+</p>
 
 ## Recommended Setup ⚒️
 
@@ -27,8 +29,9 @@ To verify that you have setup your local environment correctly, follow the steps
    git clone https://github.com/codehub-learn/angular-starter-kit.git
    ```
 
-2. Navigate to the newly created `angular-starter-kit` folder and run the following command:
+2. Navigate to the newly created `angular-starter-kit` folder and install the project dependencies:
    ```sh
+   cd angular-starter-kit
    npm install
    ```
 
@@ -38,6 +41,8 @@ To verify that you have setup your local environment correctly, follow the steps
    ```
    You should see the following:
 
-![App](app.png)
+<p align="center">
+  <img src="app.png" alt="Angular Starter Kit is running" />
+</p>
 
 Congratulations 👏 You are now ready to learn how to develop Angular applications with Code.Hub 🔥
