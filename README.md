@@ -19,7 +19,7 @@ Starter kit for developing web apps with Code.Hub and Angular
 
 ## Getting started 🚀
 
-To verify that you have setup your local environment correctly, follow the next steps.
+To verify that you have setup your local environment correctly, follow the steps below.
 
 1. Clone this repository locally by running the command:
 
@@ -32,7 +32,7 @@ To verify that you have setup your local environment correctly, follow the next 
    npm install
    ```
 
-3. Run the Angular Starter Kit application using the command:
+3. Run the **Angular Starter Kit** application using the command:
     ```sh
    ng server -o
    ```
@@ -40,4 +40,4 @@ To verify that you have setup your local environment correctly, follow the next 
 
 ![App](app.png)
 
-Congratulations 👏 You are now ready to learn how to develop Angular applications at Code.Hub 🔥
+Congratulations 👏 You are now ready to learn how to develop Angular applications with Code.Hub 🔥
