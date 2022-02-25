@@ -37,7 +37,7 @@ To verify that you have setup your local environment correctly, follow the steps
 
 3. Run the **Angular Starter Kit** application using the command:
     ```sh
-   ng server -o
+   ng serve -o
    ```
    You should see the following:
 
