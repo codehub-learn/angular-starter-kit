@@ -45,4 +45,5 @@ To verify that you have setup your local environment correctly, follow the steps
   <img src="app.png" alt="Angular Starter Kit is running" />
 </p>
 
-Congratulations 👏 You are now ready to learn how to develop Angular applications with Code.Hub 🔥
+## Congratulations 👏
+You are now ready to learn how to develop Angular applications with Code.Hub 🔥
