@@ -16,7 +16,13 @@ Starter kit for developing web apps with Code.Hub and Angular
 
 1. Download and install [VSCode](https://code.visualstudio.com/download) editor.
 2. Download and install an **LTS** version of [Node.js](https://nodejs.org/). To verify that you have installed it correctly type the command `node -v` in a command line window and it should display the installed version of Node.js
+
+    >Angular applications require an LTS version of Node.js in order to work properly.
+
 3. **Npm** is already included in Node.js. To verify that you have it, type the command `npm -v` in a command line window and it should display the installed npm version.
+
+    >Windows users: if the previous command is not working, verify that the path of the npm executable has been added to your PATH environment variable.
+
 4. If you do not already have Git installed, navigate to https://git-scm.com/downloads, download the appropriate version for your environment and install it. 
 
 ## Getting started 🚀
